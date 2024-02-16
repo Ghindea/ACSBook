@@ -2,7 +2,7 @@
 Homework realized for OOP course, second year, FACC-CSIT
 
 made by: _[Ghindea Daniel - Teodor](https://github.com/Ghindea) 325CB_
-
+[requirements](./Tema1-2023.pdf)[&description](./Tema1-DocumentațieComenzi-2023.pdf)
 ---
 
 ### Synopsis:
