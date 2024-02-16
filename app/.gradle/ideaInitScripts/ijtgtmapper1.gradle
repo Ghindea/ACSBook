@@ -1,0 +1,5 @@
+ext.pathMapper = [:]
+ext.pathMapper.put('//wsl\$/Ubuntu/home/ghindea/ghidra/jdk/bin/java', '/home/ghindea/ghidra/jdk/bin/java')
+ext.pathMapper.put('//wsl\$/Ubuntu/home/ghindea/anul_2/oop/tema-1-Ghindea', '/home/ghindea/anul_2/oop/tema-1-Ghindea')
+ext.pathMapper.put("<<target java executable path>>", '/home/ghindea/ghidra/jdk/bin/java')
+ext.mapPath = { path -> pathMapper.get(path) ?: path }
